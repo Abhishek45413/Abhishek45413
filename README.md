@@ -26,11 +26,11 @@ Databases: MySQL
 Tools: VSCode, Github, 
 
 🔧 Projects
-Coding Resources: A comprehensive resource hub for coding enthusiasts. [Link to project]
+Coding Resources: A comprehensive resource hub for coding enthusiasts.
 
-Landing Page: A high-performance, responsive landing page. [Link to project]
+Landing Page: A high-performance, responsive landing page. 
 
-Quiz App: An interactive quiz application with dynamic question sets. [Link to project]
+Quiz App: An interactive quiz application with dynamic question sets.
 
 
 <!---
