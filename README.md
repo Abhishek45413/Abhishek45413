@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student in Computer Scienc
 ⚡ Fun fact: I love exploring mythological books and enjoy outdoor sports like volleyball and badminton
 
 🛠️ My Skills
+
 Languages: Python, Java, C
 
 Web Technologies: HTML, CSS, JavaScript
