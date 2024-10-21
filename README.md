@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Abhishek
-- 👀 I’m interested in Playing games
-- 🌱 I’m currently learning Web Devlopment and Android Devlopment
-- 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me whatsapp
-- 😄 Pronouns: Anshu
-- ⚡ Fun fact: Shy and Lazy
+Hi there, I'm Abhishek Narayan 👋
+
+Welcome to my GitHub profile! I'm a passionate B.Tech student in Computer Science and Technology, driven by the thrill of solving problems and creating innovative solutions through code.
+
+🚀 About Me
+
+🔭 I’m currently working
+
+🌱 I’m currently learning
+
+🤔 I’m looking for help with: Best practices in Java, AI research
+
+💬 Ask me about: Python, Java, HTML, CSS, MySQL, Web Development
+
+📫 How to reach me: abhishek45413@gmail.com
+
+⚡ Fun fact: I love exploring mythological books and enjoy outdoor sports like volleyball and badminton
+
+🛠️ My Skills
+Languages: Python, Java, C
+
+Web Technologies: HTML, CSS, JavaScript
+
+Databases: MySQL
+
+Tools: VSCode, Github, 
+
+🔧 Projects
+Coding Resources: A comprehensive resource hub for coding enthusiasts. [Link to project]
+
+Landing Page: A high-performance, responsive landing page. [Link to project]
+
+Quiz App: An interactive quiz application with dynamic question sets. [Link to project]
+
 
 <!---
 Abhishek45413/Abhishek45413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
