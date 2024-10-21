@@ -26,6 +26,7 @@ Databases: MySQL
 Tools: VSCode, Github, 
 
 🔧 Projects
+
 Coding Resources: A comprehensive resource hub for coding enthusiasts.
 
 Landing Page: A high-performance, responsive landing page. 
