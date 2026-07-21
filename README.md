@@ -22,6 +22,8 @@ I'm **Abhishek Narayan**, an aspiring Software Developer at **Infinite Computer 
 
 [![Email](https://img.shields.io/badge/Email-abhishek45413%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek45413@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhishek45413-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek45413)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Narayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-narayan-b206aa273/)
+[![Instagram](https://img.shields.io/badge/Instagram-i.m.abhishek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.m.abhishek/)
 
 ---
 
